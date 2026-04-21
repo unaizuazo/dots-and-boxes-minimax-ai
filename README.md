@@ -290,17 +290,13 @@ This project is part of a university course on algorithms and AI. See LICENSE fi
 Faculty of Science and Technology, University of the Basque Country  
 April 2024
 
----
-
-## 👤 About the Author
-
-**Unai Zuazo**
-
 📧 **Email**: [unaizuazoangulo@gmail.com](mailto:unaizuazoangulo@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/unai-zuazo/](https://www.linkedin.com/in/unai-zuazo/)  
 🐙 **GitHub**: [github.com/unaizuazo](https://github.com/unaizuazo)
 
 ---
+
+
 
 <div align="center">
 
